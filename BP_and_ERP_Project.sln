@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BP_and_ERP_Project", "BP_and_ERP_Project\BP_and_ERP_Project.csproj", "{07FC6DE9-6E3E-4600-9657-B78376D1F5A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07FC6DE9-6E3E-4600-9657-B78376D1F5A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07FC6DE9-6E3E-4600-9657-B78376D1F5A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07FC6DE9-6E3E-4600-9657-B78376D1F5A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07FC6DE9-6E3E-4600-9657-B78376D1F5A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58FFAE84-AFD4-4287-8854-931D947A14E4}
+	EndGlobalSection
+EndGlobal
