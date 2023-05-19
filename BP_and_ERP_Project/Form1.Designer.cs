@@ -138,9 +138,9 @@
             // 
             this.progressBar1.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.progressBar1.ForeColor = System.Drawing.SystemColors.WindowFrame;
-            this.progressBar1.Location = new System.Drawing.Point(-2, 372);
+            this.progressBar1.Location = new System.Drawing.Point(-2, 365);
             this.progressBar1.Name = "progressBar1";
-            this.progressBar1.Size = new System.Drawing.Size(729, 20);
+            this.progressBar1.Size = new System.Drawing.Size(729, 27);
             this.progressBar1.TabIndex = 7;
             this.progressBar1.UseWaitCursor = true;
             this.progressBar1.Click += new System.EventHandler(this.progressBar1_Click);
@@ -165,6 +165,7 @@
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "LOGIN";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

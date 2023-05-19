@@ -36,19 +36,7 @@ namespace BP_and_ERP_Project
             MessageBox.Show("Saved");
             con.Close();
 
-
-
-
-
-
-            //else if (textBox1.Text == "" || textBox2.Text == "")
-            //{
-            //    MessageBox.Show("Please fill up all field");
-            //}
-            //else
-            //{
-            //    MessageBox.Show("Incorrect Username or Password");
-            //}
+        
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -147,6 +135,11 @@ namespace BP_and_ERP_Project
         }
 
         private void label12_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox3_TextChanged(object sender, EventArgs e)
         {
 
         }
